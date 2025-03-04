@@ -1,5 +1,7 @@
-# Exno:1
-Data Cleaning Process and Outlier detection & removal
+# EXERCISE NUMBER 1
+
+# Data Cleaning Process and Outlier detection & removal
+
 Name:NARESH PS
 Reg no: 212223040127
 
