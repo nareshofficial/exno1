@@ -1,5 +1,7 @@
 # Exno:1
-Data Cleaning Process
+Data Cleaning Process and Outlier detection & removal
+Name:NARESH PS
+Reg no: 212223040127
 
 # AIM
 To read the given data and perform data cleaning and save the cleaned data to a file.
